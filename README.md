@@ -1,3 +1,3 @@
 # Amplitude-Modulation-and-Demodulation
 This project presents a cost-effective trainer module designed to teach and demonstrate the fundamental concepts of Amplitude Modulation and Demodulation to students and trainees. Traditional trainer kits available in the market are often prohibitively expensive and include advanced features that are not essential for illustrating the basic principles. Moreover, many underfunded university laboratories in developing regions struggle to allocate resources for these costly trainer kits. Therefore, this initiative offers a practical and affordable solution for educational institutions to effectively impart knowledge of Amplitude Modulation and Demodulation.
-![Uploading Developed Module.png…]()
+![Developed Module](https://github.com/user-attachments/assets/13476e12-f34c-4698-a06d-3073c8987e12)
