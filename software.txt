@@ -1,0 +1,1 @@
+This project has been simulated and developed using Proteus 8.9 software. It is recommended to run the associated files on Proteus version 8.9 or later to ensure optimal functionality. Wishing you a seamless simulation experience!
